@@ -22,3 +22,6 @@
 
 # Ignore application configuration
 /config/application.yml
+
+#Ember ENV Variables in .env file (using dotenv)
+/frontend/.env
